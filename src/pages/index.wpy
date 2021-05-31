@@ -1,0 +1,19 @@
+<template>
+<div class="page">
+   <div class="page__hd">
+   </div>
+   <div class="page__bd">
+     <div class="button-sp-area">
+        <a class="weui-btn weui-btn_primary">存件</a>
+        <a class="weui-btn weui-btn_primary">取件</a>
+     </div>
+   </div>
+</div>
+</template>
+
+<script>
+  import wepy from '@wepy/core'
+
+  wepy.page({
+  })
+</script>
